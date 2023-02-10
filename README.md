@@ -1,4 +1,6 @@
-instalar node Js
-ejecutar el siguiente comando
+instalar node  Js
 
+
+
+ejecutar el siguiente comand
 npm i 
